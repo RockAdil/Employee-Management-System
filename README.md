@@ -1,4 +1,5 @@
-📌 Employee Management System (Java Backend)
+Employee Management System (Java Backend)
+
 📝 Project Overview
 
 The Employee Management System is a backend-focused Java application designed to manage employee records efficiently. It supports core employee operations such as adding, viewing, updating, and deleting employee data using Core Java, JDBC, and MySQL. The project follows a modular structure and demonstrates real-world backend development practices.
